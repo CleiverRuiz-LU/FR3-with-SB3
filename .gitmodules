@@ -1,0 +1,6 @@
+[submodule "FR3_env"]
+	path = FR3_env
+	url = https://github.com/CleiverRuiz-LU/FR3_env.git
+[submodule "SB3-SourceCode"]
+	path = SB3-SourceCode
+	url = https://github.com/CleiverRuiz-LU/SB3-SourceCode.git
