@@ -13,3 +13,5 @@ Clone this repository with submodules:
 
 ```bash
 git clone --recurse-submodules https://github.com/CleiverRuiz-LU/FR3-with-SB3.git
+
+cd FR3_env && pip install -e . && cd ..
