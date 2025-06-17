@@ -7,6 +7,9 @@ import os
 
 # Add the environment package to the Python path
 import sys
+# Add the current directory (parent of FR3_env) to the path
+sys.path.append(os.path.dirname(__file__))
+# Also add the FR3_env directory to the path
 sys.path.append(os.path.join(os.path.dirname(__file__), 'FR3_env'))
 
 # Import the environment
